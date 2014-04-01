@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\vmware-host\Shared Folders\桌面\hrootadclickrelease</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AdClick.dll">
+      <publishTime>04/02/2014 00:09:39</publishTime>
+    </File>
+    <File Include="bin/HRootPassword.dll">
+      <publishTime>03/31/2012 10:36:07</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/17/2013 12:51:02</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>04/01/2014 15:34:58</publishTime>
+    </File>
+    <File Include="view/analytics.aspx">
+      <publishTime>04/01/2014 23:41:56</publishTime>
+    </File>
+    <File Include="view/default.aspx">
+      <publishTime>04/01/2014 22:37:38</publishTime>
+    </File>
+    <File Include="view/detail.aspx">
+      <publishTime>04/02/2014 00:03:48</publishTime>
+    </File>
+    <File Include="view/ip.xml">
+      <publishTime>04/01/2014 22:29:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/01/2014 23:45:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
