@@ -1,4 +1,0 @@
-\\vmware-host\Shared Folders\桌面\hrootadclick\AdClick\AdClick\bin\AdClick.dll
-\\vmware-host\Shared Folders\桌面\hrootadclick\AdClick\AdClick\bin\AdClick.pdb
-\\vmware-host\Shared Folders\桌面\hrootadclick\AdClick\AdClick\obj\Release\AdClick.dll
-\\vmware-host\Shared Folders\桌面\hrootadclick\AdClick\AdClick\obj\Release\AdClick.pdb
